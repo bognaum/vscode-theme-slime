@@ -3,6 +3,7 @@
     "displayName": "Slime TM theme in BN edition",
     "description": "The color theme from BN is based on Slime TM theme.",
     "version": "0.0.1",
+    "icon": "./IMG/icon.jpg",
     "engines": {
         "vscode": "^1.67.0"
     },
