@@ -445,7 +445,27 @@
 		"editor.foreground": "#BFBFBF",
 		"editorWhitespace.foreground": "#3b3a32",
 		"editor.lineHighlightBackground": "#384147",
-		"editor.selectionBackground": "#333333"
+		"editor.selectionBackground": "#393946",
+		
+		"editor.inactiveSelectionBackground": "#282832",
+		
+		"editor.selectionHighlightBackground": "#00000000",
+		"editor.selectionHighlightBorder": "#ffffff",
+		
+		"editor.wordHighlightBackground": "#00000000",
+		"editor.wordHighlightBorder": "#88BB77",
+		
+		"editor.wordHighlightStrongBackground": "#00000000",
+		"editor.wordHighlightStrongBorder": "#7E8AA2",
+		
+		"editor.findMatchBackground": "#00000000",
+		"editor.findMatchBorder": "#ff5555",
+		
+		"editor.findMatchHighlightBackground": "#00000000",
+		"editor.findMatchHighlightBorder": "#00ff00",
+		
+		"editor.findRangeHighlightBackground": "#00000080",
+		"editor.findRangeHighlightBorder": "#ff000000",
 	},
 	"name": "Slime TM theme in BN edition"
 }
