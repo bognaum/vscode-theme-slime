@@ -2,6 +2,7 @@
     "name": "slime-tm-theme-in-bn-edition",
     "displayName": "Slime TM theme in BN edition",
     "description": "The color theme from BN, based on Slime TM theme.",
+    "publisher": "Bognaum",
     "version": "0.0.1",
     "icon": "IMG/icon.jpg",
     "engines": {
