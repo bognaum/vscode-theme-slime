@@ -4,6 +4,10 @@
     "description": "The color theme from BN, based on Slime TM theme.",
     "publisher": "Bognaum",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bognaum/vscode-theme-slime.git"
+    },
     "icon": "IMG/icon.jpg",
     "engines": {
         "vscode": "^1.67.0"
