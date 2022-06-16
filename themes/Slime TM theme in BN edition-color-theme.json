@@ -445,9 +445,10 @@
 		"editor.foreground": "#BFBFBF",
 		"editorWhitespace.foreground": "#5b5a52",
 		"editor.lineHighlightBackground": "#384147",
-		"editor.selectionBackground": "#393946",
 		
-		"editor.inactiveSelectionBackground": "#282832",
+		"editor.selectionBackground": "#595D60",
+		"editor.inactiveSelectionBackground": "#494D50",
+		"selection.background": "#777",
 		
 		"editor.selectionHighlightBackground": "#00000000",
 		"editor.selectionHighlightBorder": "#ffffff",
@@ -456,7 +457,7 @@
 		"editor.wordHighlightBorder": "#88BB77",
 		
 		"editor.wordHighlightStrongBackground": "#00000000",
-		"editor.wordHighlightStrongBorder": "#7E8AA2",
+		"editor.wordHighlightStrongBorder": "#5aa",
 		
 		"editor.findMatchBackground": "#00000000",
 		"editor.findMatchBorder": "#ff5555",
@@ -465,7 +466,43 @@
 		"editor.findMatchHighlightBorder": "#00ff00",
 		
 		"editor.findRangeHighlightBackground": "#00000080",
-		"editor.findRangeHighlightBorder": "#ff000000",
+		// "editor.findRangeHighlightBorder": "#ff000000",
+	
+		"editorGroupHeader.tabsBackground": "#323233",
+		"tab.inactiveBackground": "#323233",
+		"tab.activeBackground"              : "#292D30", // "editor.background":
+		"tab.activeBorder"                  : "#292D30",
+		"editorGroupHeader.noTabsBackground": "#292D30",
+		"tab.border": "#666",
+		"tab.activeBorderTop": "#666",
+		"editorGroupHeader.tabsBorder": "#666",
+		"editorGroupHeader.border": "#666",
+	
+		"keybindingLabel.background": "#222",
+		"keybindingLabel.border": "#555",
+		"keybindingLabel.bottomBorder": "#555",
+	
+		// "widget.shadow": "#bbb",
+		// "widget.shadow": "#000",
+	
+		"tree.indentGuidesStroke": "#666",
+	
+		"editorWidget.border": "#666",
+	
+		"minimap.selectionOccurrenceHighlight": "#6b6",
+	
+		"editorWidget.resizeBorder": "#888",
+		"editorHoverWidget.border": "#999",
+		"input.background": "#222",
+		"input.border": "#666",
+	
+		// "notificationToast.border": "#666",
+	
+		"notificationCenter.border": "#666",
+		"notifications.border": "#666",
+	
+		"debugExceptionWidget.border": "#666",
+		"debugToolBar.border": "#666"
 	},
 	"name": "Slime TM theme in BN edition"
 }
