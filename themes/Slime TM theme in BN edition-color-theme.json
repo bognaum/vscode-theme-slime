@@ -451,7 +451,7 @@
 		"selection.background": "#777",
 		
 		"editor.selectionHighlightBackground": "#00000000",
-		"editor.selectionHighlightBorder": "#ffffff",
+		"editor.selectionHighlightBorder": "#ffffff88",
 		
 		"editor.wordHighlightBackground": "#00000000",
 		"editor.wordHighlightBorder": "#88BB77",
