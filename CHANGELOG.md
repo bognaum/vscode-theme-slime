@@ -4,6 +4,8 @@ All notable changes to the "slime-tm-theme-in-bn-edition" extension will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.2]
+- Reduced the border color of selection matching words
 
+## [1.0.0]
 - Initial release

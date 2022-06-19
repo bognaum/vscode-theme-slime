@@ -3,7 +3,7 @@
     "displayName": "Slime TM theme in BN edition",
     "description": "The color theme from BN, based on Slime TM theme.",
     "publisher": "Bognaum",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/bognaum/vscode-theme-slime.git"
