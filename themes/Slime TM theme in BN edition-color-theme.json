@@ -503,6 +503,7 @@
 	
 		"debugExceptionWidget.border": "#666",
 		"debugToolBar.border": "#666",
+		"debugToolBar.background": "#444",
 
 		"contrastBorder": "#444",
 	},
