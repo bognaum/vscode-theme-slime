@@ -4,6 +4,10 @@ All notable changes to the "slime-tm-theme-in-bn-edition" extension will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.5]
+- Improved minimap. 
+- Reduced selectionHighlightBorder.
+
 ## [1.0.4]
 - Changed color of debug toolbar widget.
 
