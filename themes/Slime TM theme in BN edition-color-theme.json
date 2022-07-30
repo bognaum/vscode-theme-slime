@@ -450,9 +450,6 @@
 		"editor.inactiveSelectionBackground": "#494D50",
 		"selection.background": "#777",
 		
-		"editor.selectionHighlightBackground": "#00000000",
-		"editor.selectionHighlightBorder": "#ffffff88",
-		
 		"editor.wordHighlightBackground": "#00000000",
 		"editor.wordHighlightBorder": "#88BB77",
 		
@@ -506,6 +503,15 @@
 		"debugToolBar.background": "#444",
 
 		"contrastBorder": "#444",
+
+		"minimapSlider.background": "#88888855",
+		"minimapSlider.hoverBackground":"#88888888",
+		"minimapSlider.activeBackground": "#2c698b88",
+				
+		"editor.selectionHighlightBackground": "#00000000",
+		"editor.selectionHighlightBorder"    : "#88888888",
+
+		"menu.selectionBackground": "#2c698b",
 	},
 	"name": "Slime TM theme in BN edition"
 }
